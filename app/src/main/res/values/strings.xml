@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">커피만땅</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_list_adapter">ListAdapter</string>
+    <string name="event1">이벤트중임</string>
+</resources>
